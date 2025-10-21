@@ -34,4 +34,6 @@ require (
 	golang.org/x/text v0.22.0 // indirect
 )
 
+require github.com/go-git/go-git/v5 v5.4.2
+
 // replace github.com/wailsapp/wails/v2 v2.10.2 => C:\Users\cashm\go\pkg\mod
